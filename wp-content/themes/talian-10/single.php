@@ -10,7 +10,6 @@
 
                     <?php while (have_posts()) : the_post(); ?>
 
-                        <?php if (function_exists('the_ratings')) { the_ratings(); } ?>
 
                         <div class="post-meta" id="post-<?php the_ID(); ?>">
 
@@ -24,6 +23,8 @@
                                 <span class="filedto"><?php the_category(', ') ?></span>
 
                                 <span class="tag"><?php the_tags('', ', ', ''); ?></span></div>
+
+                                <?php if (function_exists('the_ratings')) { the_ratings(); } ?>
 
                             <div class="posted-aut-cat"><?php if (function_exists('the_views')) { the_views(); } ?> </div>
 
