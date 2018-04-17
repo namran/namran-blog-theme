@@ -7,7 +7,7 @@ Disclaimer: The opinions expressed herein are my own personal opinions and do no
 <br /> <br />
 </div>
 <div id="footer_talia">
-| <a href="https://www.namran.net"> namran.net </a> | &copy; 2006 - 2018 &nbsp;<a href="http://blog.namran.net">:: Namran Hussin ::</a> | <a href="http://blog.namran.net/about">About</a> | <a href="http://blog.namran.net/about/tools">Tools</a> | <a href="http://www.facebook.com/pages/namrannet/87206863918" alt="namran.net on Facebook"> Facebook </a> | <a href="http://www.imrs.com.my">IMR Solutions Sdn Bhd</a>  | <a href="https://www.namran.com">namran.com</a> |<br/> 
+| <a href="https://www.namran.net"> namran.net </a> | &copy; 2006 - 2018 &nbsp;<a href="https://blog.namran.net">Namran Hussin</a> | <a href="http://blog.namran.net/about">About</a> | <a href="https://blog.namran.net/about/tools">Tools</a> | <a href="http://www.facebook.com/pages/namrannet/87206863918" alt="namran.net on Facebook"> Facebook </a> | <a href="http://www.imrs.com.my">IMR Solutions Sdn Bhd</a>  | <a href="https://www.namran.com">namran.com</a> |<br/> 
 </div>
 <div id="footer_talia">	
 
