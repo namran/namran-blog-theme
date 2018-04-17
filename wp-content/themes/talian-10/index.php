@@ -20,18 +20,11 @@
                                 </div><!-- This is the end of the calendar div -->
                                 <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></h1>
 
-
                             <div class="posted-aut-cat">Posted on <?php the_time('l, F jS, Y \a\t G:i') ?> MYT  (+08 UTC)   <?php edit_post_link('Edit', '&#124; ', ''); ?></div>
 
                             <div class="posted-aut-cat">by <?php the_author_posts_link(); ?> in <span class="filedto"> <?php the_category(', ') ?></span> </div>
-
-                            <?php if (function_exists('the_ratings')) {
-                                the_ratings();
-                            } ?>
-
-        <?php if (function_exists('the_views')) {
-            the_views();
-        } ?> <div class="wp_plus_one_button" style="margin: 0 8px 8px 0; float:left; "><g:plusone href="<?php the_permalink(); ?>"></g:plusone></div>
+               
+                            <div class="wp_plus_one_button" style="margin: 0 8px 8px 0; float:left; "><g:plusone href="<?php the_permalink(); ?>"></g:plusone></div>
 
 
                             <div class="post-content"><?php the_content('Continue reading this post...'); ?></div>
@@ -40,6 +33,10 @@
                             <div class="posted-aut-cat"> </div>
                             <div class="post-commented">
                                 <span class="tag"><?php the_tags('Tags: ', ', ', '</p>'); ?></span>
+                                
+                                <?php if (function_exists('the_ratings')) { the_ratings(); } ?>
+
+                                <?php if (function_exists('the_views')) { the_views(); } ?>
 
                                 <div><a href="<?php the_permalink(); ?>#comment-area" title="<?php the_title(); ?>"><fb:comments-count href="<?php the_permalink(); ?>"></fb:comments-count> comment(s) via Facebook </a></div>
 
