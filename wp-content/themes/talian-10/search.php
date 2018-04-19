@@ -30,14 +30,6 @@
                                 <p><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title(); ?>">
                                         read more from this search.....</a></p>
 
-                                <script type="text/javascript"><!--
-                                google_ad_client = "pub-0486192213670544";
-                                    google_ad_slot = "0715863013";
-                                    google_ad_width = 468;
-                                    google_ad_height = 60;
-                                //--></script>
-
-
                             </div>
 
                             <div class="post-commented">
