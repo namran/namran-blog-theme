@@ -54,14 +54,6 @@
                 <?php else: ?>
 
                     <h3>Sorry The Category Have Been Removed</h3>
-                    <script type="text/javascript"><!--
-                    google_ad_client = "pub-0486192213670544";
-                        /* search.php,leaderboard,728x90, created 3/21/09 */
-                        google_ad_slot = "3404464477";
-                        google_ad_width = 728;
-                        google_ad_height = 90;
-                        //-->
-                    </script>
 
                 <?php endif; ?>
 

@@ -203,7 +203,7 @@ function widget_mytheme_mytranslator() {
     <h3>Translators</h3>
     <a href="https://translate.google.com/translate?u=<?php bloginfo('url'); ?>&amp;langpair=en%7Cfr&amp;hl=fr&amp;ie=UTF-8&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools"><div class="fr"></div></a>
     <a href="https://translate.google.com/translate?u=<?php bloginfo('url'); ?>&amp;langpair=en%7Cde&amp;hl=de&amp;ie=UTF-8&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools"><div class="de"></div></a>
-    <a href="http://translate.google.com/translate?u=<?php bloginfo('url'); ?>&amp;langpair=en%7Ces&amp;hl=es&amp;ie=UTF-8&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools"><div class="es"></div></a>
+    <a href="https://translate.google.com/translate?u=<?php bloginfo('url'); ?>&amp;langpair=en%7Ces&amp;hl=es&amp;ie=UTF-8&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools"><div class="es"></div></a>
     <a href="https://translate.google.com/translate?u=<?php bloginfo('url'); ?>&amp;langpair=en%7Cit&amp;hl=it&amp;ie=UTF-8&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools"><div class="it"></div></a>
     </ul>
 

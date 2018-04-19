@@ -32,18 +32,6 @@
                             
                             <div class="post-content"><?php the_content(); ?>
 
-
-
-                                <!-- Adding google adsense into tip -->
-                                <p />
-                                <script type="text/javascript"><!--
-                                google_ad_client = "pub-0486192213670544";
-                                    google_ad_slot = "4325381546";
-                                    google_ad_width = 468;
-                                    google_ad_height = 60;
-                                //--></script>
-                                <script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-                                <p />
                             </div>
                         </div>
 
